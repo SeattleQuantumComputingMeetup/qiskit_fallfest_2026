@@ -1,9 +1,12 @@
-<img src="images/qiskit_fall_fest_2025_badge_pink.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/100_Years_Quantum_Mechanics.png" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IBM Quantum Logo.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sqcm_logo.JPG" alt="drawing" width="80"/> 
+<img src="images/qiskit_fall_fest_2025_badge_pink.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/100_Years_Quantum_Mechanics.png" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IBM Quantum Logo.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sqcm_logo.png" alt="drawing" width="80"/> 
 
 <!-- <img src="images/Qiskit_03_purple.png" alt="drawing" width="100"/><img src="images/Atom_01_black.png" alt="drawing" width="100"/><img src="images/Entanglement.png" alt="drawing" width="200"/> -->
 
 # Qiskit Fall Fest 2026 - A Decade in the Cloud
 Sponsored by IBM Quantum, run by the Seattle Quantum Computing Meetup
+
+IBM marked a decade of <a href="https://www.ibm.com/quantum/blog/decade-of-quantum" target="_blank">quantum computing on the cloud</a>  on May 4, 2016, when it first placed a 5-qubit quantum processor online for global access.
+
 
 ### Schedule of Events:
 
@@ -42,7 +45,7 @@ Send a direct message in Discord (nhawkins) indicating your full name as you wou
 
 ### Final Words
 
-Have fun, enjoy your journey, and thank you for participating!! 
+Have fun, enjoy your journey, and thank you for participating!
 
 <br>
 
