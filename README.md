@@ -30,7 +30,7 @@ We will also make available the usual Qiskit Challenge notebook(s), and Hackatho
 
 ### Citizen Science Project: 
 
-This year we introduce a Quantum-Assisted AI drug-discovery project written in Qiskit, Python, and Torch.  You can help scale this project.  
+We introduce a Quantum-Assisted AI drug-discovery project written in Qiskit, Python, and Torch.  You can help scale this project.  
 
 ### Criteria for Certificates:
 
