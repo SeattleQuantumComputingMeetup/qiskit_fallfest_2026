@@ -28,7 +28,7 @@ This year we are going to focus on presenting a real-world quantum computing pro
 
 We will also make available the usual Qiskit Challenge notebook(s), and Hackathon prompt(s).  
 
-Citizen Science Project: 
+### Citizen Science Project: 
 
 This year we introduce a Quantum-Assisted AI drug-discovery project written in Qiskit, Python, and Torch.  You can help scale this project.  
 
