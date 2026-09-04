@@ -13,7 +13,7 @@ IBM marked a decade of <a href="https://www.ibm.com/quantum/blog/decade-of-quant
 | Date | Time | Activity | Location |
 | :-------------------------- | :---------------------------- | :---------------------------------------------- | :---------------------------------- |
 | Oct 6 | 6-7:00 pm  | Meetup Event- Fall Fest 2026 Zoom Kickoff | Zoom | 
-| Oct 10 | TBD  | Meetup Event - Fall Fest 2026 In-Person Kickoff <br> Learn how to contribute to a real-world quantum computing project | TBD |
+| Oct TBD | TBD  | Meetup Event - Fall Fest 2026 In-Person Kickoff <br> Learn how to contribute to a real-world quantum computing project | TBD |
 | Oct TBD | 5:00-7:00 pm | Meetup Event - Quantum Computing Happy Hour | TBD | 
 | Nov 30 | 10:00 am | Deadline for Winning Certificate work | submit online | 
 | Nov 30 | TBD  | Closing Ceremony, by Serena Godwin, Qiskit Fall Fest Lead at IBM Quantum | On24 | 
