@@ -1,6 +1,6 @@
 <p align="center">
-<img src="images/sqcm_logo.png" alt="drawing" width="80"/>&nbsp;&nbsp;&nbsp;<img src="images/Entanglement.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="images/Qiskit_03_purple.png" alt="drawing" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/QFF26_birds.png" alt="drawing" width="250"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Qiskit_03_purple.png" alt="drawing" width="80"/>&nbsp;&nbsp;&nbsp;<img src="images/Entanglement.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IBM Quantum Logo.png" alt="drawing" width="100"/>
+<img src="images/sqcm_logo.png" alt="drawing" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="images/Qiskit_03_purple.png" alt="drawing" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/QFF26_birds.png" alt="drawing" width="250"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Qiskit_03_purple.png" alt="drawing" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IBM Quantum Logo.png" alt="drawing" width="100"/>
 </p>
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Entanglement.png" alt="drawing" width="70"/> -->
