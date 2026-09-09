@@ -22,9 +22,10 @@
 
 | Date | Time | Activity | Location |
 | :-------------------------- | :---------------------------- | :---------------------------------------------- | :---------------------------------- |
-| Oct 6 | 6:00 - 7:00 pm  | [Fall Fest 2026 Zoom Kickoff](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_events_list) | Zoom | 
-| Oct TBD | TBD  | Fall Fest 2026 In-Person Kickoff <br> Learn how to contribute to a real-world quantum computing project | TBD |
-| Oct TBD | 5:00 - 7:00 pm | Quantum Computing Happy Hour | TBD | 
+| Oct 6 | 6:00 - 7:00 pm  | [Qiskit Fall Fest 2026 Zoom Kickoff](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_events_list) | Zoom | 
+| Oct-Nov TBD | TBD  | Industry Presentations related to Qiskit | TBD |
+| Oct-Nov TBD | 5:00 - 7:00 pm | Quantum Computing Happy Hour | TBD | 
+| Nov TBD | TBD  | Participant Qiskit Project Presentations | TBD |
 | Nov 30 | 10:00 am | Deadline for Winning Certificate work | submit online | 
 | Nov 30 | TBD  | Closing Ceremony, by Serena Godwin, Qiskit Fall Fest Lead at IBM Quantum | On24 | 
 | Up to Early Dec | -- | Participation and Winner Certificates Will Be Awarded | delivered online | 
