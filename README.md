@@ -27,7 +27,7 @@
 | Oct-Nov TBD | 5:00 - 7:00 pm | Quantum Computing Happy Hour | TBD | 
 | Nov TBD | TBD  | Participant Qiskit Project Presentations | TBD |
 | Nov 30 | 10:00 am | Deadline for Winning Certificate work | submit online | 
-| Nov 30 | TBD  | Closing Ceremony, by Serena Godwin, Qiskit Fall Fest Lead at IBM Quantum | On24 | 
+| Dec 8 | TBD  | Closing Ceremony, by Serena Godwin, Qiskit Fall Fest Lead at IBM Quantum | On24 | 
 | Up to Early Dec | -- | Participation and Winner Certificates Will Be Awarded | delivered online | 
 
 *All times are Pacific time zone* 
