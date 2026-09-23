@@ -18,11 +18,17 @@
 
 ##### On May 4, 2016 IBM placed a 5-qubit quantum processor online for global access and started a decade of <a href="https://www.ibm.com/quantum/blog/decade-of-quantum" target="_blank">quantum computing in the cloud.</a>  
 
+### What to do:
+1. [Register here](https://forms.gle/wfyYZZ68VCtTRZ3q7) so that we have your name when awarding an IBM Quantum Certificate
+2. [If you haven't previously, join the SQCM Discord](https://discord.gg/EJtZMaE6q) to engage with others during the fall fest
+3. [Join the Qiskit Fall Fest 2026 Kickoff zoom](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_upcoming_events) on Tu, Oct 6, at 6pm PT
+
 ### Schedule of Events:
 
 | Date | Time | Activity | Location |
 | :-------------------------- | :---------------------------- | :---------------------------------------------- | :---------------------------------- |
 | Oct 6 | 6:00 - 7:00 pm  | [Qiskit Fall Fest 2026 Zoom Kickoff](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_events_list) | Zoom | 
+| Oct-Nov TBD | TBD  | IBM Quantum Presentation related to Qiskit | online |
 | Oct-Nov TBD | TBD  | Industry Presentations related to Qiskit | TBD |
 | Oct-Nov TBD | 5:00 - 7:00 pm | Quantum Computing Happy Hour | TBD | 
 | Nov TBD | TBD  | Participant Qiskit Project Presentations | TBD |
