@@ -21,7 +21,7 @@
 ### What to do:
 1. [Register here](https://forms.gle/wfyYZZ68VCtTRZ3q7) so that we have your name when awarding an IBM Quantum Certificate
 2. [If you haven't previously, join the SQCM Discord](https://discord.gg/UWpn5R6bp) to engage with others during the fall fest
-3. [Join the Qiskit Fall Fest 2026 Kickoff zoom](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_upcoming_events) on Tu, Oct 6, at 6pm PT
+3. [Join the Qiskit Fall Fest 2026 Kickoff zoom](https://www.meetup.com/seattle-quantum-computing-meetup/events) on Tu, Oct 6, at 12noon, 4pm, or 6pm PT
 
 ### Schedule of Events:
 
