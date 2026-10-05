@@ -27,7 +27,7 @@
 
 | Date | Time | Activity | Location |
 | :-------------------------- | :---------------------------- | :---------------------------------------------- | :---------------------------------- |
-| Oct 6 | 6:00 - 7:00 pm  | [Qiskit Fall Fest 2026 Zoom Kickoff](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_events_list) | Zoom | 
+| Oct 6 | 12noon, 4pm, or 6pm  | [Qiskit Fall Fest 2026 Zoom Kickoff](https://www.meetup.com/seattle-quantum-computing-meetup/events) | Zoom | 
 | Oct 20 | 6:00 - 8:00 pm  | Industry Presentations related to Quantum Computing Research, Programming, Jobs, and Qiskit | TBD |
 | Oct-Nov TBD | 5:00 - 7:00 pm | Quantum Computing Happy Hour | TBD | 
 | Nov 3 | 12:00 - 1:00 pm  | IBM Quantum Presentation, Alex Choquette, Global Strategic Research Development, IBM Quantum | online |
