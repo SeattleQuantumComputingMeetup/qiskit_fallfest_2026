@@ -15,6 +15,7 @@
 
 # Qiskit Fall Fest 2026 - A Decade in the Cloud
 *run by the Seattle Quantum Computing Meetup, sponsored by IBM Quantum*  
+Organizers: Natalie Hawkins - Lead, Kathleen G - UW Liaison, Arry Y - Event Advisor
 
 ##### On May 4, 2016 IBM placed a 5-qubit quantum processor online for global access and started a decade of <a href="https://www.ibm.com/quantum/blog/decade-of-quantum" target="_blank">quantum computing in the cloud.</a>  
 
