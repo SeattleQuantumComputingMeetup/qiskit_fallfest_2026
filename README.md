@@ -20,7 +20,7 @@
 
 ### What to do:
 1. [Register here](https://forms.gle/wfyYZZ68VCtTRZ3q7) so that we have your name when awarding an IBM Quantum Certificate
-2. [If you haven't previously, join the SQCM Discord](https://discord.gg/EJtZMaE6q) to engage with others during the fall fest
+2. [If you haven't previously, join the SQCM Discord](https://discord.gg/UWpn5R6bp) to engage with others during the fall fest
 3. [Join the Qiskit Fall Fest 2026 Kickoff zoom](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_upcoming_events) on Tu, Oct 6, at 6pm PT
 
 ### Schedule of Events:
@@ -30,7 +30,7 @@
 | Oct 6 | 6:00 - 7:00 pm  | [Qiskit Fall Fest 2026 Zoom Kickoff](https://www.meetup.com/seattle-quantum-computing-meetup/events/316412376/?eventOrigin=group_events_list) | Zoom | 
 | Oct 20 | 6:00 - 8:00 pm  | Industry Presentations related to Quantum Computing Research, Programming, Jobs, and Qiskit | TBD |
 | Oct-Nov TBD | 5:00 - 7:00 pm | Quantum Computing Happy Hour | TBD | 
-| Nov 3 | 6:00 - 7:00 pm  | IBM Quantum Presentation, Alex Choquette, Global Strategic Research Development, IBM Quantum | online |
+| Nov 3 | 12:00 - 1:00 pm  | IBM Quantum Presentation, Alex Choquette, Global Strategic Research Development, IBM Quantum | online |
 | Nov 24 or Dec 1 | TBD  | Participant Qiskit Project Presentations | TBD |
 | Nov 30 | 10:00 am | Deadline for Winning Certificate work | submit online | 
 | Dec 8 | 6:30 am  | Closing Ceremony, by Serena Godwin, Qiskit Fall Fest Lead at IBM Quantum | On24 | 
