@@ -28,9 +28,9 @@
 | Date | Time | Activity | Location |
 | :-------------------------- | :---------------------------- | :---------------------------------------------- | :---------------------------------- |
 | Oct 6 | 12noon, 4pm, or 6pm  | [Qiskit Fall Fest 2026 Zoom Kickoff](https://www.meetup.com/seattle-quantum-computing-meetup/events) | Zoom | 
-| Oct 20, 21, or 22? | 4pm?, 5pm?, or 6pm?  | Industry Presentations related to Quantum Computing Research, Programming, Jobs, and Qiskit | TBD |
 | Oct 8 | 4pm-6pm | [Quantum Computing Happy Hour, RSVP](https://www.meetup.com/seattle-quantum-computing-meetup/events/316848957/) | Seattle TBD | 
 | Oct 13 | 5pm-7pm | [Quantum Computing Happy Hour, RSVP](https://www.meetup.com/seattle-quantum-computing-meetup/events/316849069/) | Forum Social House, Lincoln Square, Bellevue, WA | 
+| Oct 20, 21, or 22? | 4pm?, 5pm?, or 6pm?  | Industry Presentations related to Quantum Computing Research, Programming, Jobs, and Qiskit | TBD |
 | Nov 3 | 12:00 - 1:00 pm  | IBM Quantum Presentation, Alex Choquette, Global Strategic Research Development, IBM Quantum | online |
 | Nov 24 or Dec 1 or later | TBD  | Participant Qiskit Project Presentations | TBD |
 | Nov 30 | 10:00 am | Deadline for Winning Certificate work | submit online | 
