@@ -43,11 +43,26 @@ Organizers: Natalie Hawkins - Lead, Kathleen G - UW Liaison, Arry Y - Event Advi
 ### How it Works:
 Earn a certificate from IBM Quantum while gaining skills in quantum computing using Qiskit.
 
-This year we are going to focus on real-world quantum computing projects, so that you can learn how to start creating applications.
+This year's Qiskit Challenge notebooks focus on the SQD algorithm applied to a short chain of magnets, and to H2, stretched-N2, and H2O to find the ground state energy of each.
 
-### Citizen Science Project: 
+### How to Earn a Winning Crtificate from IBM Quantum 
 
-We introduce a Quantum-Assisted AI drug-discovery project written in Qiskit, Python, and Torch.  You can help scale this project.  
+How can I earn a Winning Certificate? It’s completely flexible - pick one, or design one of your own!
+
+1. Complete one or more of the Qiskit Jupyter Notebooks on the SQD Algorithm
+2. Complete one or more classes on the [IBM Quantum Learning platform](https://quantum.cloud.ibm.com/learning/en/courses)
+3. Complete a [tutorial on the IBM Quantum platform](https://quantum.cloud.ibm.com/docs/en/tutorials)
+4. Work on a [hackathon prompt from the SQCM QFF26 directory](https://github.com/SeattleQuantumComputingMeetup/qiskit_fallfest_2026/tree/main/hackathon_prompts)
+5. Write a proposal for a start-up related to quantum technologies, [something like this...](https://dorahacks.io/hackathon/564/businesschallenge)
+6. Write an article, say, for Medium or Substack, or just for yourself, related to quantum computing, could be a report on a Qiskit Quantum Seminar that you watched on the Qiskit YouTube channel, or on the QPU Roadmap
+7. Vibe code a research paper, take the [Qiskit Developer Certification exam](https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400), join the [Qiskit Advocate Program](https://www.ibm.com/quantum/blog/qiskit-advocate-program)
+8. Create a piece of art or music related to quantum technologies
+
+
+
+### Group Projects: 
+
+We will survey the participants for interest in working on longer-term group projects, and if there's interest, facilitate that.
 
 ### Criteria for Certificates:
 
